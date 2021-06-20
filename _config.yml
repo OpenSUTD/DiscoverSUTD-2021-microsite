@@ -9,15 +9,15 @@ collections:
     permalink: /:path/
 
 # Title
-name: DiscoverSUTD-2021
-subtitle: Project Page for organising DiscoverSUTD
+name: DiscoverSUTD-2021-microsite
+subtitle: Project Page for organising DiscoverSUTD 2021
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DiscoverSUTD-2021'
+baseurl: '/DiscoverSUTD-2021-microsite'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -44,7 +44,7 @@ navigation:
   url: proposal_details/
   internal: true
 - text: Site repo
-  url: https://github.com/castlemas/DiscoverSUTD-2021
+  url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
   internal: false
 
 # Repo list
@@ -52,7 +52,7 @@ navigation:
 repos:
 - name: DiscoverSUTD 2021
   description: Master Repository
-  url: https://github.com/castlemas/DiscoverSUTD-2021
+  url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
 
 # Style Variables
 brand_color: "#2cb34a"
