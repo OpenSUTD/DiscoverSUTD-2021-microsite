@@ -1,7 +1,7 @@
 # DiscoverSUTD 2021
 **Decentralised planning for the Freshmore experience**
 
-Check out [this page](https://castlemas.github.io/DiscoverSUTD-2021/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
+Check out [this page](https://opensutd.org/DiscoverSUTD-2021-microsite/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
 
 Do let us know if you can think of a better name for this event! That's why it's still a working title.
 
@@ -15,7 +15,7 @@ DiscoverSUTD is organised by the team behind [OpenSUTD](https://opensutd.org/).
 OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
 
 ## Contributing
-Details are [here](https://castlemas.github.io/DiscoverSUTD-2021/contributing/).
+Details are [here](https://opensutd.org/DiscoverSUTD-2021-microsite/contributing/).
 In general the workflow is:
 1. Submit a proposal through Github Issues on our master repository
 2. We will reply to your issue and review it.
