@@ -1,9 +1,9 @@
 ---
 name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
-title: "[SOEP] - [Insert title of your event]"
-labels: needs-review, proposal
-assignees: Jolow99, castlemas, hariz-wrts
+title: "[Insert title of your event]"
+labels: ''
+assignees: castlemas, jolow99
 
 ---
 
@@ -12,7 +12,7 @@ assignees: Jolow99, castlemas, hariz-wrts
 
 **Abstract**
 
-[Insert a short description of the highlights of your session in one or two sentences.]
+[Insert a short description of the highlights of your session in one or two sentences]
 
 **Student Organisation organising this session**
 [Insert name of Student Organisation]

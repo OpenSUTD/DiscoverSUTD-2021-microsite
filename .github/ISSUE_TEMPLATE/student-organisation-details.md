@@ -1,14 +1,14 @@
 ---
 name: Student Organisation Details
 about: To submit Student Organisation details to be updated on DiscoverSUTD website
-title: "[SOD] - [Insert name of your Student Organisation] "
-labels: needs-review, proposal
-assignees: Jolow99, castlemas, hariz-wrts
+title: "[Insert name of your Student Organisation] "
+labels: Student Organisation Details
+assignees: castlemas, jolow99
 
 ---
 
 **Name of Student Organisation***
-[Insert name of Student OrganisationHere]
+[Insert name of Student Organisation Here]
 
 **Cluster**
 [Insert cluster your Student Organisation belongs to e.g. Arts and Culture / Specialist / Sports / Student Government]
@@ -23,7 +23,10 @@ assignees: Jolow99, castlemas, hariz-wrts
 [Insert day/time of sessions here e.g. Wednesdays and Fridays 6.30pm-8.30pm]
 
 **Student Organisation Introduction Video**
-[If applicable, Insert link to your introduction video here]
+[If applicable, Insert Youtube link to your introduction video here]
+
+**Name / Contact of President**
+[Insert name and email/telegram contact of President]
 
 **Other Relevant Links**
 [Insert relevant links e.g. Student Organisation website, Telegram, Registration Forms]
