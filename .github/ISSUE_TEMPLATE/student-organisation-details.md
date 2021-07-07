@@ -11,7 +11,7 @@ assignees: castlemas, jolow99
 [Insert name of Student Organisation Here]
 
 **Cluster**
-[Insert cluster your Student Organisation belongs to e.g. Arts and Culture / Specialist / Sports / Student Government]
+[Insert cluster your Student Organisation belongs to e.g. Arts, Community, Culture, Makers, Sports, Student Government]
 
 **Classification**
 [Insert classification of your Student Organisation e.g. Fifth Row / Probationary Club / Interest Group]
