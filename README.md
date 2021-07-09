@@ -44,8 +44,6 @@ Emily Law ([ Telegram ](https://t.me/jhonbook123)),
 
 Muhammad Hariz Bin Roslan ([ Telegram ](https://t.me/wtvml)), 
 
-Clement Loh ([ Telegram ](https://t.me/ClementLohCK)), 
-
 Joseph Low ([ Telegram ](https://t.me/Jolow))
 
 __DiscoverSUTD-2020 Team__
