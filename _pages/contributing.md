@@ -22,6 +22,8 @@ For examples of other workshops that are pretty good, take a look at [Deep Learn
 
 Also take a look at what other Fifth Rows are [planning](https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite/issues).
 
+<mark><span style="color:blue">Note: Please do not email OSL an EPF for your session.</span></mark>
+
 **I would like to be a part of the team**
 
 For visual branding:
