@@ -44,7 +44,9 @@ Emily Law ([ Telegram ](https://t.me/jhonbook123)),
 
 Muhammad Hariz Bin Roslan ([ Telegram ](https://t.me/wtvml)), 
 
-Clement Loh ([ Telegram ](https://t.me/ClementLohCK)), 
+Tan Jia Yue ([ Telegram ](https://t.me/Tanjiayue)),
+
+Chia Yong Kang ([ Telegram ](https://t.me/chiayong)),
 
 Joseph Low ([ Telegram ](https://t.me/Jolow))
 
