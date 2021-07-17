@@ -3,7 +3,7 @@ name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
 title: "[Insert title of your event]"
 labels: Student Organisation Event Details
-assignees: castlemas, jolow99
+assignees: castlemas, ExtremelySunnyYK, jolow99
 
 ---
 
@@ -38,7 +38,7 @@ Share with us the background of your facilitators to provide some context for yo
 
 
 
-**Logistical details**
+**Logistical details / Budget Needed**
 
 Help us with the overall resourcing of our events. This will give us a cue as to how to budget for the event and if there are further constraints we must consider.
 Please provide us with your club e-mail address so we can notify you once your event has been scheduled. Copy this [template](https://forms.office.com/Pages/ShareFormPage.aspx?id=drd2NJDpck-5UGJImDFiPWH2rk0WPLpNoz88PwBGAxpUQ0c5TktQNlJKUTVMUFFQTVRHTkJOV1o1VS4u&sharetoken=zv60rxgRFw6Sp0GdVpWP) to ensure consistent branding throughout DiscoverSUTD.

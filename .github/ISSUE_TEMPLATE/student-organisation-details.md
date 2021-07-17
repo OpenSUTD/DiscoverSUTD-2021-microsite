@@ -3,7 +3,7 @@ name: Student Organisation Details
 about: To submit Student Organisation details to be updated on DiscoverSUTD website
 title: "[Insert name of your Student Organisation] "
 labels: Student Organisation Details
-assignees: castlemas, jolow99
+assignees: castlemas, ExtremelySunnyYK, jolow99
 
 ---
 
