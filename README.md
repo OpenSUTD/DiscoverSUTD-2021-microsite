@@ -44,10 +44,13 @@ Emily Law ([ Telegram ](https://t.me/jhonbook123)),
 
 Muhammad Hariz Bin Roslan ([ Telegram ](https://t.me/wtvml)), 
 
+ main
+
 Tan Jia Yue ([ Telegram ](https://t.me/Tanjiayue)),
 
 Chia Yong Kang ([ Telegram ](https://t.me/chiayong)),
 
+ main
 Joseph Low ([ Telegram ](https://t.me/Jolow))
 
 __DiscoverSUTD-2020 Team__
