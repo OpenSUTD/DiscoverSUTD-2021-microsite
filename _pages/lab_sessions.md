@@ -6,7 +6,7 @@ title:  "Lab Sessions"
 
 If you are a lab manager, thank you for being onboard with us!
 
-Tentatively, lab sessions are supposedly held on the following dates and times. 
+Tentatively, lab sessions are supposedly held on the following dates and times. You could also suggest other times by referring to the [proposal details](https://opensutd.org/DiscoverSUTD-2021-microsite/proposal_details/). These dates are tentative and we will be communicating with you if any changes is needed due to any clashes in times, etc.
 
 - 16 September 2021 1600 - 1730 (Thursday)
 - 20 September 2021 1600 - 1730 (Monday)
@@ -25,7 +25,9 @@ Here's a step by step guide to come onboard with us! :)
 
     Eg. Organised by: [Organiser Team's name] can be filled as Organised by: ROAR LAB. You can look out for the "[Fill in ...]" to demarcate the parts you need to fill in. 
 
-4. The form is editable so that you can include the information that you need from the freshmores. For example, which lab sessions that they want to attend.
+
+
+4. The form is editable so that you can include the information that you need from the freshmores. For example, which lab sessions that they want to attend. 
 
 5. Once you are done, do send us an [email](mailto:DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) of the copy of the ms forms for your respective labs. 
 
