@@ -24,17 +24,8 @@ In general the workflow is:
 
 
 ## Timeline
-This is to cater to Fifth row leaders when they are planning. The detailed proposal is [here](https://docs.google.com/document/d/1R3vDbL2QLzgfk5rgFNvR9veKKkE80r9CtSYmdqAeu1M/edit)
+This is to cater to Fifth row leaders when they are planning. The detailed ccontributing instructions is [here](https://opensutd.org/DiscoverSUTD-2021-microsite/contributing/). Do refer to our [Proposal Details](https://opensutd.org/DiscoverSUTD-2021-microsite/proposal_details/) for our tentative proposed Event Timeline.
 
-|Week|Activities|
-|--|--|
-|13 - 17 Sept|Wed: Human library, HG event|
-||Thurs-Fri: Fifth row sessions (after class hours)|
-|20 - 24 Sept|Mon-Fri: Fifth row sessions available (after class hours)|
-||Tues: pillar sessions, Fablab visit|
-||Wed: Housing event|
-|27 - 30 Sept|Mon-Fri: Fifth row sessions available (after class hours)|
-||Wed: Housing event|
 
 
 ## Who's Who:
