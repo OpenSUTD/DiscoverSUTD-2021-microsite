@@ -2,8 +2,8 @@
 name: Feedback for OrgComm
 about: Provide comments or suggestions to OrgComm
 title: "[Feedback] Title of feedback"
-labels: needs-review
-assignees: castlemas, Jolow99, hariz-wrts
+labels: ''
+assignees: castlemas, jolow99
 
 ---
 

@@ -34,15 +34,23 @@ navigation:
 - text: Home
   url: ./
   internal: true
+
 - text: Programs
   url: programs/
   internal: true
+
 - text: Contributing
   url: contributing/
   internal: true
+
 - text: Proposal Details
   url: proposal_details/
   internal: true
+
+- text: Lab Sessions
+  url: lab_sessions/
+  internal: true
+  
 - text: Site repo
   url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
   internal: false

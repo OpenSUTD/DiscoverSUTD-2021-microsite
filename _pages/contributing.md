@@ -22,6 +22,18 @@ For examples of other workshops that are pretty good, take a look at [Deep Learn
 
 Also take a look at what other Fifth Rows are [planning](https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite/issues).
 
+<mark><span style="color:blue">Note: Please do not email OSL an EPF for your session.</span></mark>
+
+If you are also unsure of how and where you can submit your proposals or your promotional videos, you can do so [here](https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite/issues/new/choose).
+
+For generic questions, refer and post your questions [here](https://docs.google.com/document/d/1gflrExX4MlgpJZ9i0m9g_wWSICCN35OrlV1ByEX7WXM/edit). Our team will try to be as prompt as possible in getting back to you.
+
+We would also kindly request that you reply as fast as possible so that our team can respond promptly.
+
+Kindly refer to this [gentle guide](https://sutdapac-my.sharepoint.com/:b:/g/personal/melody_leong_mymail_sutd_edu_sg/EXJd2-UC-F5Kp2KXkKsmlQ0B4P-4RPDf6g7SUbgpDk77rA?e=O5R0gs) to posting your github issues if you are unsure of how to get started.
+
+Our team looks forward to working closely with you in this event as far as possible.
+
 **I would like to be a part of the team**
 
 For visual branding:

@@ -1,9 +1,9 @@
 ---
 name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
-title: "[SOEP] - [Insert title of your event]"
-labels: needs-review, proposal
-assignees: Jolow99, castlemas, hariz-wrts
+title: "[Insert title of your event]"
+labels: Student Organisation Event Details
+assignees: castlemas, ExtremelySunnyYK, jolow99
 
 ---
 
@@ -12,7 +12,7 @@ assignees: Jolow99, castlemas, hariz-wrts
 
 **Abstract**
 
-[Insert a short description of the highlights of your session in one or two sentences.]
+[Insert a short description of the highlights of your session in one or two sentences]
 
 **Student Organisation organising this session**
 [Insert name of Student Organisation]
@@ -36,9 +36,10 @@ Let us know the number of participants you can handle and where you intend to ho
 
 Share with us the background of your facilitators to provide some context for your participants.
 
+**Sign up link(if any)**
+[Insert Signup Link]
 
+**Logistical details / Budget Needed**
 
-**Logistical details**
-
-Help us with the overall resourcing our events. This will give us cue as to how to budget for the event and if there are further constraints we must consider.
-Please provide us with your club e-mail address so we can notify you once your event has been scheduled.
+Help us with the overall resourcing of our events. This will give us a cue as to how to budget for the event and if there are further constraints we must consider.
+Please provide us with your club e-mail address so we can notify you once your event has been scheduled. Copy this [template](https://forms.office.com/Pages/ShareFormPage.aspx?id=drd2NJDpck-5UGJImDFiPWH2rk0WPLpNoz88PwBGAxpUQ0c5TktQNlJKUTVMUFFQTVRHTkJOV1o1VS4u&sharetoken=zv60rxgRFw6Sp0GdVpWP) to ensure consistent branding throughout DiscoverSUTD.

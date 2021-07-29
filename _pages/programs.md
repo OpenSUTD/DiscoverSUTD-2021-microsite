@@ -35,3 +35,10 @@ Yes you heard that right! We will be providing supper most days of the week to e
 **AMA session**
 
 Still in doubt?  Don't sleep on it! Join our AskmeAnything (AMA) sessions to get them off your chest. You can expect to chat with our friendly seniors and learn from their ✨ _experiences_ ✨ . (Tip: ask them for their favourite foodstall in the canteen)
+
+**Lab session**
+
+This session organised by labs has the following aims: <br/>
+1. To introduce freshmores to labs that they can potentially explore for their masters or phd or even summer internships and also look at some hiring opportunities.<br/>
+2. To also introduce the different labs in SUTD on what they do to inspire freshmores. <br/>
+If You are a lab manager, take a look at the lab sessions tab if you are interested in taking part as a lab to host a session for the freshmores. 
