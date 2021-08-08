@@ -41,11 +41,11 @@ You can expect burning questions from freshmores which you could give your valua
 Important details:<br>
 
 - Invitation to ILP and Early Mat students will be sent out on 17/8. On 13/9 we will be inviting to the entire incoming class of 2025 freshmore batch.
-- Venue: Click [here](https://t.me/joinchat/mHWpEyLYm8llNmRl) to join!
+- Venue: Click [here](https://t.me/joinchat/mHWpEyLYm8llNmRl) to join anytime! Please help us spread the words to fellow SUTD friends.
 - Date: 17/8 - end of Term 3
 - Time: round the clock
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com
+
 
  These dates are tentative and we will be communicating with you if any changes is needed due to any clashes in times, etc.
 <br>
