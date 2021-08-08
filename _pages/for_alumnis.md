@@ -22,7 +22,7 @@ Important details:<br>
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions <br>
 Here's our tentative webpage for Human Library <br>
- ![](supperfigma.png)
+ ![hithere](supperfigma.png)
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
