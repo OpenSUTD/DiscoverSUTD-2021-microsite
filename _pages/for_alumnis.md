@@ -36,7 +36,9 @@ Important details:<br>
 - POC: [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions  <br>
 Here's our tenative webpage for Supper <br>
-<img src="/assets/img/supperfigma.png" alt="Figma Supper" > yooooo wassup
+
+![](2021-08-09-02-21-22.png)
+
 
 <b>AMA Telegram group</b><br>
 You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
