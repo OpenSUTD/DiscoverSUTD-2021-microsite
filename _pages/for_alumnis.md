@@ -22,7 +22,7 @@ Important details:<br>
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions <br>
 Here's our tentative webpage for Human Library <br>
-<img src="DiscoverSUTD-2021-microsite (ext)\assets\img\humanfigma.JPG" alt="Figma Human Library" width="500" height="333">
+ ![](supperfigma.png)
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
@@ -34,7 +34,7 @@ Important details:<br>
 - POC: [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions  <br>
 Here's our tenative webpage for Supper <br>
-<img src="DiscoverSUTD-2021-microsite (ext)\assets\img\supperfigma.JPG" alt="Figma Supper" width="500" height="333">
+<img src="assets\img\supperfigma.png" alt="Figma Supper" width="500" height="333">
 
 <b>AMA Telegram group</b><br>
 You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
