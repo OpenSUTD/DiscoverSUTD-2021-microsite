@@ -50,6 +50,10 @@ navigation:
 - text: Lab Sessions
   url: lab_sessions/
   internal: true
+
+- text: For Alumnis
+  url: for_alumnis/
+  internal: true
   
 - text: Site repo
   url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
