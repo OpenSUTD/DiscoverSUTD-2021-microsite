@@ -4,7 +4,7 @@ title:  "For Alumnis"
 ---
 
 
-Hi Alumnis, we cordially to invite you for <b>1. Human Library</b>, <b>2. Supper with Seniors</b>, and <b>3. Ask Me Anything (AMA) Telegram group!</b>
+Hi Alumnis, we cordially to invite you to <b>1. Human Library</b>, <b>2. Supper with Seniors</b>, and <b>3. Ask Me Anything (AMA) Telegram group!</b>
 <br>
 
 Tentatively, <br>
@@ -20,7 +20,7 @@ Important details:<br>
 - 15/9, Session 1 1400 - 1500, Session 2 1500 - 1600.
 - Venue: Online on Discord 
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email [here](mailto:DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com)<br>
+- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com<br>
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
@@ -30,7 +30,7 @@ Important details:<br>
 - Time: 2030 - 2200
 - Venue: Online on Discord
 - POC: [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email [here](mailto:DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com)<br>
+- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com<br>
 
 <b>AMA Telegram group</b><br>
 You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
@@ -41,7 +41,7 @@ Important details:<br>
 - Date: 17/8 - end of Term 3
 - Time: round the clock
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email [here](mailto:DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com)
+- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com
 
  These dates are tentative and we will be communicating with you if any changes is needed due to any clashes in times, etc.
 <br>
