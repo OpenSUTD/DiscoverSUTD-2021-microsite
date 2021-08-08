@@ -2,13 +2,13 @@
 layout: page
 title:  "For Alumnis"
 ---
-**Overall contribution**
+
 
 Hi Alumnis, it is our pleasure to invite you for Human Library, Supper with Seniors, and Ask Me Anything (AMA) Telegram group! <br>
 
 Tentatively, <br>
 
-<b>Human Library</b> 
+<b>Human Library</b> <br>
 HumanLibrary is an event where students can borrow “books” to have an informal conversation about experiences and interests.<br> "Books" are basically you guys, where you can share certain knowledge about the pillar, interest or anything in general to the freshmore students. <br>Students are able to view your short biography which gives them a rough idea of the kind of conversation they would like to talk about. <br>This allows the freshmore students to engage in great conversations with the SUTD community and obtain wonderful insights about the SUTD experience, future project opportunities, and more!<br>
 By taking part in Human Library, you can be part of impacting and inspiring freshmore students through sharing your insights and experiences!<br>
 
@@ -22,8 +22,8 @@ Important details:<br>
 - Venue: Online on Discord 
 - POC: [Hariz](https://t.me/@wtvml), [Emily](https://t.me/jhonbook123)<br>
 
-<b>Supper</b> 
-We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
+<b>Supper</b> <br>
+We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
 
 Important details:<br>
 - 16/9, 17/9, 20/9, 21/9, 22/9, 23/9, 27/9, 28/9, 29/9
@@ -31,8 +31,8 @@ Important details:<br>
 - Venue: Online on Discord
 - POC: [Emily](https://t.me/jhonbook123)<br>
 
-<b>AMA Telegram group</b>
-You can expect burning questions from freshmores which you could give your valuable answers, chat, and  ✨inspire✨ them.<br>
+<b>AMA Telegram group</b><br>
+You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
 Important details:<br>
 - Invitation to ILP and Early Mat students will be sent out on 17/8. On 13/9 we will be inviting to the entire incoming class of 2025 freshmore batch.
 - Venue: Click [here](https://t.me/joinchat/mHWpEyLYm8llNmRl) to join!
