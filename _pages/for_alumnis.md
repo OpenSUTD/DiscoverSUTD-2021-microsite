@@ -10,7 +10,7 @@ Hi Alumnis, we cordially to invite you to <b>1. Human Library</b>, <b>2. Supper 
 Tentatively, <br>
 
 <b>Human Library</b> <br>
-HumanLibrary is an event where students can borrow “books” to have an informal conversation about experiences and interests.<br> "Books" are basically you guys, where you can share certain knowledge about the pillar, interest or anything in general to the freshmore students. <br>Students are able to view your short biography which gives them a rough idea of the kind of conversation they would like to talk about. <br>This allows the freshmore students to engage in great conversations with the SUTD community and obtain wonderful insights about the SUTD experience, future project opportunities, and more!<br>
+Human Library is an event where students can borrow “books” to have an informal conversation about experiences and interests.<br> "Books" are basically you guys, where you can share certain knowledge about the pillar, interest or anything in general to the freshmore students. <br>Students are able to view your short biography which gives them a rough idea of the kind of conversation they would like to talk about. <br>This allows the freshmore students to engage in great conversations with the SUTD community and obtain wonderful insights about the SUTD experience, future project opportunities, and more!<br>
 By taking part in Human Library, you can be part of impacting and inspiring freshmore students through sharing your insights and experiences!<br>
 
 What are you going to do as a "book" at the event itself? 1.Share your ideas and perspective with a small group of students about the pillar! 2. Have informal intimate conversations about anything in general!
@@ -20,7 +20,9 @@ Important details:<br>
 - 15/9, Session 1 1400 - 1500, Session 2 1500 - 1600.
 - Venue: Online on Discord 
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com<br>
+- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions <br>
+Here's our tentative webpage for Human Library <br>
+<img src="_pages\humanfigma.JPG" alt="Figma Human Library" width="500" height="333">
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
@@ -30,7 +32,9 @@ Important details:<br>
 - Time: 2030 - 2200
 - Venue: Online on Discord
 - POC: [Emily](https://t.me/jhonbook123)
-- If you are interested, drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com<br>
+- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions  <br>
+Here's our tenative webpage for Supper <br>
+<img src="_pages\supperfigma.JPG" alt="Figma Supper" width="500" height="333">
 
 <b>AMA Telegram group</b><br>
 You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
