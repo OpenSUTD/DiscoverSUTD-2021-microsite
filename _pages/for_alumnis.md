@@ -20,10 +20,10 @@ Important details:<br>
 - 15/9, Session 1 1400 - 1500, Session 2 1500 - 1600.
 - Venue: Online on Discord 
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
-- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions <br>
+- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your <b>1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions</b> <br>
 Here's our tentative webpage for Human Library <br>
-<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
-<img src="https://i.imgur.com/uhlGJ5C.png" alt="Lamp" width="32" height="32">
+![](https://i.imgur.com/m7fdJBE.jpg)
+
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
@@ -33,9 +33,8 @@ Important details:<br>
 - Time: 2030 - 2200
 - Venue: Online on Discord
 - POC: [Emily](https://t.me/jhonbook123)
-- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions  <br>
+- If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your <b>1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions</b>  <br>
 Here's our tenative webpage for Supper <br>
-
 
 ![](https://i.imgur.com/uhlGJ5C.png)
 
