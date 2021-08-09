@@ -22,7 +22,7 @@ Important details:<br>
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your <b>1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions</b> <br>
 Here's our tentative webpage for Human Library <br>
-![](https://i.imgur.com/m7fdJBE.jpg)
+![](https://i.imgur.com/Y9djpC8.png)
 
 
 <b>Supper</b> <br>
