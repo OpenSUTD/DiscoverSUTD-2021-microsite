@@ -21,7 +21,7 @@ Important details:<br>
 - Venue: Online on Discord 
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your <b>1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions</b> <br>
-Here's our tentative webpage for Human Library <br>
+Here's our tentative webpage design for Human Library <br>
 ![](https://i.imgur.com/Y9djpC8.png)
 
 
@@ -34,7 +34,7 @@ Important details:<br>
 - Venue: Online on Discord
 - POC: [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your <b>1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions</b>  <br>
-Here's our tenative webpage for Supper <br>
+Here's our tenative webpage design for Supper <br>
 
 ![](https://i.imgur.com/uhlGJ5C.png)
 
@@ -52,7 +52,7 @@ Important details:<br>
  These dates are tentative and we will be communicating with you if any changes is needed due to any clashes in times, etc.
 <br>
 
-If you are interested in taking part in any of the above events or have any enquires, do drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com <br>
+If you are <b>interested in taking part</b> in any of the above events or have any enquires, do drop us an email: DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com <br>
 
 We hope to see you there, it would not be the same without you!
 
