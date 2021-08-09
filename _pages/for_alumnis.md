@@ -22,9 +22,8 @@ Important details:<br>
 - POC: [Hariz](https://t.me/wtvml), [Emily](https://t.me/jhonbook123)
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions <br>
 Here's our tentative webpage for Human Library <br>
-![dhappyndp](assets/img/supperfigma.png) 
-
-![bffbfbv](assets/images/supperfigma.png)
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+<img src="https://i.imgur.com/uhlGJ5C.png" alt="Lamp" width="32" height="32">
 
 <b>Supper</b> <br>
 We will be providing supper most days of the week to encourage Freshmores to stay for workshops and activities after class.<br> Also, we hope that having the cohort gather regularly might help in building a stronger community through encouraging people to share about their day, hopes and experiences at SUTD.<br>
@@ -37,8 +36,8 @@ Important details:<br>
 - If you are interested, email us (DiscoverSUTD-2021@SUTDAPAC.onmicrosoft.com) your 1. Profile Picture 2.Short bio (20-200 words) 3. Available Sessions  <br>
 Here's our tenative webpage for Supper <br>
 
-![](2021-08-09-02-21-22.png)
 
+![](https://i.imgur.com/uhlGJ5C.png)
 
 <b>AMA Telegram group</b><br>
 You can expect burning questions from freshmores which you could give your valuable answers, chat, and  inspire them.<br>
