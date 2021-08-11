@@ -56,7 +56,7 @@ navigation:
   internal: true
   
 - text: Site repo
-  url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
+  url: https://github.com/castlemas/DiscoverSUTD-2021-microsite
   internal: false
 
 # Repo list
@@ -64,7 +64,7 @@ navigation:
 repos:
 - name: DiscoverSUTD 2021
   description: Master Repository
-  url: https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite
+  url: https://github.com/castlemas/DiscoverSUTD-2021-microsite
 
 # Style Variables
 brand_color: "#2cb34a"
