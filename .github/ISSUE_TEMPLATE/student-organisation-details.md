@@ -19,8 +19,8 @@ assignees: castlemas, ExtremelySunnyYK, jolow99
 **Description**
 [Insert a short description of your Student Organisation, Less than 100 words]
 
-**Training / Meeting Timings**
-[Insert day/time of sessions here e.g. Wednesdays and Fridays 6.30pm-8.30pm]
+**Training / Meeting Timings and Locations **
+[Insert day/time of sessions and locations here e.g. Wednesdays and Fridays 6.30pm-8.30pm Basketball Court]
 
 **Student Organisation Introduction Video**
 [If applicable, Insert Youtube link to your introduction video here]
