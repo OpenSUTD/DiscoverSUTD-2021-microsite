@@ -59,4 +59,3 @@ OpenSUTD: Timothy Liu ([email](mailto:timothy_liu@mymail.sutd.edu.sg)); Joel Hua
 Open Regulation: Lee Gui An ([email](mailto:guian_lee@mymail.sutd.edu.sg))
 
 SAC rep coordination: Tay Kay Jin ([email](mailto:kayjin_tay@mymail.sutd.edu.sg))
-
