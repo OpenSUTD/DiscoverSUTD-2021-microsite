@@ -10,7 +10,7 @@ title:  "Contributing"
 
 Please do note that the planning team is small and we ask for your patience. It will take time to clear sesssions with the staff but rest assured we receive all proposals.
 
-**I would like to hold a session**
+**❌CLOSED❌ I would like to hold a session**
 
 If you're a Fifth Row leader, a Senior or alumni and would like to hold a workshop for Freshmores.
 
