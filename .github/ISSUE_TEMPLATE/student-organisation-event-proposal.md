@@ -1,4 +1,4 @@
-//---
+/*---
 name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
 title: "[Insert title of your event]"
