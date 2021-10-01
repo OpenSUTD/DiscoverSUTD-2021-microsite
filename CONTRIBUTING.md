@@ -35,6 +35,18 @@ Kindly refer to this [gentle guide](https://sutdapac-my.sharepoint.com/:b:/g/per
 
 Our team looks forward to working closely with you in this event as far as possible.
 
+**New Update**
+
+For Fifth Rows that have <span style="background-color: yellow">yet</span> to make a purchase of their approved items for the approved events, you are highly advised not to purchase your items anymore. Do the following steps:
+
+1. File your claims.
+2. Attach your receipts, fifth row name and approved items. Indicate your cluster that you belong to also for easier reading.
+3. Make sure your total amount of items tally in quantity and price!
+4. Email us.
+5. We will reply with the concur code.
+
+The team sincerely regrets to have most of the fifth rows holding physical events to be cancelled due to COVID-19 restrictions. We also hope that you understood the reason behind the fact that we were not able to extend the duration for DiscoverSUTD.
+
 **I would like to be a part of the team**
 
 For visual branding:
